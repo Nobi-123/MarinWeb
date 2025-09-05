@@ -1,7 +1,7 @@
 {
   "name": "wavetune",
   "description": "WaveTune - Music Bot",
-  "repository": "https://github.com/4nuxd/wavetune",
+  "repository": "https://github.com/Nobi-123/MarinWeb",
   "keywords": ["music", "bot", "discord", "wave", "node"],
   "buildpacks": [
     {
