@@ -4,7 +4,7 @@ export default function Logo() {
     return (
         <Link href="/" className="select-none">
             <div>
-                <h1 className="text-2xl font-bold">- `ᴍʏʀᴀ ✗ <span className="opacity-50">𝐌ᴜѕɪᴄ's</span></h1>
+                <h1 className="text-2xl font-bold"> Mᴀʀɪɴ <span className="opacity-50"> Kɪᴛᴀɢᴀᴡᴀ </span></h1>
             </div>
         </Link>
     )
